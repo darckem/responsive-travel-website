@@ -116,11 +116,10 @@ html {
 }
 
 body {
-  background-image: url(../img/escudo.png);
+  background-image: url(../img/logo.png);
   background-attachment: fixed;
   background-repeat: inherit;
-  opacity: 5.0;
-  filter: alpha(opacity=100);
+  /* filter: alpha(opacity=100); */
   margin: var(--header-height) 0 0 0;
   font-family: var(--body-font);
   font-size: var(--normal-font-size);
